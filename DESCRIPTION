@@ -5,6 +5,7 @@ Version: 2.4
 License: GPL-3
 Title: Base DataSHIELD methods (server)
 Description: Base DataSHIELD methods (server)
+Options: datashield.limit=5
 AggregateMethods: length=base::length,
     colnames=base::colnames,
     histogram.ds,
